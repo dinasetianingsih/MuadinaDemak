@@ -404,7 +404,7 @@ function HeroSection({ setIsContactOpen }: { setIsContactOpen: (open: boolean) =
           }}
         >
           <a
-            href="https://wa.me/6281234567890?text=Halo%20Muadina%20Demak,%20saya%20tertarik%20dengan%20layanan%20makeup%20artist"
+            href="https://wa.me/6282137199389?text=Halo%20Muadina%20Demak,%20saya%20tertarik%20dengan%20layanan%20makeup%20artist"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full text-[14px] uppercase tracking-[0.08em] font-medium transition-all duration-200 hover:scale-[1.02] hover:shadow-lg group relative overflow-hidden"
@@ -1215,7 +1215,7 @@ function FinalCTASection() {
         {/* CTA Buttons */}
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-10">
           <a
-            href="https://wa.me/6281234567890?text=Halo%20Muadina%20Demak,%20saya%20ingin%20cek%20ketersediaan%20tanggal"
+                href="https://wa.me/6282137199389?text=Halo%20Muadina%20Demak,%20saya%20ingin%20cek%20ketersediaan%20tanggal"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-10 py-5 rounded-full text-base font-semibold transition-all duration-200 hover:scale-[1.03]"
@@ -1228,7 +1228,7 @@ function FinalCTASection() {
             Cek Ketersediaan Tanggal via WhatsApp
           </a>
           <a
-            href="https://instagram.com/muadinademak"
+              href="https://instagram.com/muadinademak"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-5 rounded-full text-base transition-all duration-200 hover:bg-white/10"
@@ -1385,8 +1385,7 @@ function Footer() {
                   className="text-[14px]"
                   style={{ color: "rgba(255,255,255,0.7)" }}
                 >
-                  Studio Muadina Demak, Jl. Kemang Raya No. 88, Jakarta Selatan
-                  12730
+                  Demak, Jawa Tengah
                 </span>
               </div>
               <div className="flex items-center gap-3">
@@ -1395,7 +1394,7 @@ function Footer() {
                   className="text-[14px]"
                   style={{ color: "rgba(255,255,255,0.7)" }}
                 >
-                  +62 812-3456-7890
+                  082137199389
                 </span>
               </div>
               <div className="flex items-center gap-3">
@@ -1404,7 +1403,7 @@ function Footer() {
                   className="text-[14px]"
                   style={{ color: "rgba(255,255,255,0.7)" }}
                 >
-                  hello@muadinademak.com
+                  muadinademak@gmail.com
                 </span>
               </div>
               <div className="flex items-center gap-3">
@@ -1471,7 +1470,7 @@ function ContactModal({
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
     const text = `Halo Muadina Demak!%0A%0ANama: ${formData.name}%0AWhatsApp: ${formData.whatsapp}%0ALayanan: ${formData.service}%0ATanggal Acara: ${formData.date}%0A%0APesan:%0A${formData.message}`
-    window.open(`https://wa.me/6281234567890?text=${text}`, "_blank")
+    window.open(`https://wa.me/6282137199389?text=${text}`, "_blank")
     onClose()
   }
 
@@ -1587,7 +1586,7 @@ function ContactModal({
         <p className="text-center text-[13px] mt-4" style={{ color: colors.softGray }}>
           atau langsung{" "}
           <a
-            href="https://wa.me/6281234567890"
+            href="https://wa.me/6282137199389"
             target="_blank"
             rel="noopener noreferrer"
             className="underline"
@@ -1605,7 +1604,7 @@ function ContactModal({
 function WhatsAppFloatingButton() {
   return (
     <a
-      href="https://wa.me/6281234567890"
+      href="https://wa.me/6282137199389"
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-50 w-[60px] h-[60px] rounded-full flex items-center justify-center shadow-lg transition-transform duration-200 hover:scale-110 group"
