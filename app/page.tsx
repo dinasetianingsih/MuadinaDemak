@@ -1208,7 +1208,7 @@ function FinalCTASection() {
             className="text-[14px]"
             style={{ color: "rgba(255,255,255,0.8)" }}
           >
-            Tersedia untuk booking bulan Juli — Desember 2025
+            Tersedia untuk booking bulan Juli — Desember 2026
           </span>
         </div>
 
@@ -1431,7 +1431,7 @@ function Footer() {
             className="text-[13px]"
             style={{ color: "rgba(255,255,255,0.5)" }}
           >
-            © 2025 Muadina Demak. Hak Cipta Dilindungi.
+            © 2026 Muadina Demak. Hak Cipta Dilindungi.
           </p>
           <p
             className="text-[13px]"
