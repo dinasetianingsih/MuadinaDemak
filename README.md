@@ -22,7 +22,7 @@ Website resmi **Muadina Demak**, platform digital interaktif untuk penyedia jasa
 
 ---
 
-## 🛠️ Prasyarat Sistem (Prerequisites)
+##  Prasyarat Sistem (Prerequisites)
 
 Sebelum memulai proses instalasi dan menjalankan project ini di komputer Anda, pastikan perangkat Anda telah terpasang software berikut:
 
