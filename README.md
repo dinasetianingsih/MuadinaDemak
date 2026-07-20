@@ -1,35 +1,45 @@
-# v0-makeup-artist-landing
+# Muadina Demak — Landing Page Web Application
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+Website resmi **Muadina Demak**, platform digital interaktif untuk penyedia jasa *Premium Makeup Artist* (MUA). Dibangun menggunakan **Next.js** dan **Tailwind CSS** dengan fokus pada estetika *luxury*, performa tinggi, responsivitas *mobile*, dan optimasi konversi via WhatsApp.
 
-## Built with v0
+---
 
-This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
+## Live Demo & Repository
 
-[Continue working on v0 →](https://v0.app/chat/projects/prj_lRI9WFyY4HaVIjMaMnMxzEPTAHsA)
+* **Live Website:** [https://muadina-demak.vercel.app/](https://muadina-demak.vercel.app/)
+* **GitHub Repository:** [https://github.com/dinasetianingsih/MuadinaDemak](https://github.com/dinasetianingsih/MuadinaDemak)
 
-## Getting Started
+---
 
-First, run the development server:
+## Fitur Utama
 
+1. **Hero Section High-Impact:** Split-screen layout dengan CTA langsung ke WhatsApp & floating badge testimonial.
+2. **Problem & Solution Mapping:** Komparasi visual antara isu umum makeup vs solusi teknik HD 14+ jam dari Muadina Demak.
+3. **Katalog Layanan Interaktif:** Grid responsif dengan efek hover micro-interaction untuk 4 kategori layanan utama.
+4. **Dark-Themed Portfolio Gallery:** Tampilan galeri foto bergaya eksklusif untuk menonjolkan kecerahan dan detail riasan.
+5. **Social Proof & Testimonials:** Rating terverifikasi, ulasan terstruktur, dan statistik kepercayaan.
+6. **Conversion-Oriented CTA & Footer:** Pemicu urgensi pendaftaran jadwal dan navigasi footer terstruktur.
+
+---
+
+## 🛠️ Prasyarat Sistem (Prerequisites)
+
+Sebelum memulai proses instalasi dan menjalankan project ini di komputer Anda, pastikan perangkat Anda telah terpasang software berikut:
+
+* **Node.js**: Versi `v24.0.0` atau yang lebih baru (Sangat direkomendasikan versi LTS). 
+  * Cek versi Node.js: `node -v`
+* **npm** (Node Package Manager): Versi `v11.0.0` atau yang lebih baru (biasanya terinstall otomatis bersama Node.js).
+  * Cek versi npm: `npm -v`
+
+> Jika Anda belum memasangnya, unduh dan install Node.js melalui situs resmi: [https://nodejs.org/](https://nodejs.org/)
+
+---
+
+## Panduan Instalasi & Cara Menjalankan
+
+Ikuti langkah-langkah di bawah ini untuk menjalankan project secara lokal di komputer Anda:
+
+### 1. Clone Repository
+Buka terminal atau Command Prompt, lalu jalankan perintah:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
-
-<a href="https://v0.app/chat/api/kiro/clone/dinasetianingsih/v0-makeup-artist-landing" alt="Open in Kiro"><img src="https://pdgvvgmkdvyeydso.public.blob.vercel-storage.com/open%20in%20kiro.svg?sanitize=true" /></a>
+git clone [https://github.com/dinasetianingsih/MuadinaDemak.git](https://github.com/dinasetianingsih/MuadinaDemak.git)
